@@ -1,5 +1,6 @@
 # NAS-DOCKER镜像
 支持最新1.0.35
+docker镜像地址：https://hub.docker.com/r/alienhe/newer-kiftd
 
 # kiftd——青阳网络文件传输系统 #
 ## 一款面向个人、团队、小型组织的网盘应用系统，免费、开源、完善。 ##
